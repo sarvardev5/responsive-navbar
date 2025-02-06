@@ -11,7 +11,7 @@ This project is a responsive navigation bar built using HTML, CSS, and JavaScrip
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/responsive-navbar.git
+    git clone https://github.com/sarvardev5/responsive-navbar.git
     ```
 2. Navigate to the project directory:
     ```bash
